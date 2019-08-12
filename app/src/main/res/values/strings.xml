@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyUtility</string>
-    <string name="facebook_app_id">2364455893829581</string> <string name="fb_login_protocol_scheme">fb2364455893829581</string>
+    <string name="facebook_app_id">2364455893829581</string>
+    <string name="fb_login_protocol_scheme">fb2364455893829581</string>
 </resources>
