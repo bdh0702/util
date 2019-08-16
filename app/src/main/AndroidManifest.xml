@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".writeActivity"></activity>
+        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".writeActivity" />
         <activity android:name=".FreeBoardActivity" />
         <activity android:name=".CalenderActivity" />
         <activity android:name=".PaintActivity" />
@@ -20,7 +21,7 @@
         <activity android:name=".ProfileActivity" />
         <activity android:name=".HomeActivity" />
         <activity android:name=".RegisterActivity" />
-        <activity android:name=".LoginActivity">
+        <activity android:name=".ChatActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

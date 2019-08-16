@@ -35,10 +35,5 @@
             android:gravity="center"
             android:textSize="12sp"
             android:drawableLeft="@drawable/ic_person_black" />
-
-
     </LinearLayout>
-
-
-
 </androidx.cardview.widget.CardView>
